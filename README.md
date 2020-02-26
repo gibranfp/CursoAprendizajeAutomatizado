@@ -1,5 +1,5 @@
 # Curso de aprendizaje automatizado, PCIC-UNAM
-Notas, diapositivas, tareas y código de ejemplo del curso de aprendizaje automatizado impartido en el PCIC de la UNAM
+Notas, diapositivas, tareas y código de ejemplo del curso de [Aprendizaje Automatizado](http://turing.iimas.unam.mx/~gibranfp/cursos/aprendizaje_automatizado/) impartido en el PCIC de la UNAM.
 
 ## Configuración del ambiente
 
@@ -9,7 +9,7 @@ Los ejemplos del curso se pueden seguir usando:
 
 ### Google Colab
 
-Google Colab es un servicio gratuito que permite ejecutar libretas de Jupyter que se encuentren almacenadas en una cuenta de Google Drive. Usarlo es sencillo, habiendo entrado previamente a tu cuenta de Drive, abre al libreta `1_mlp.ipynb` dentro del directorio `notebooks` y presiona sobre el icono:
+Google Colab es un servicio gratuito que permite ejecutar libretas de Jupyter que se encuentren almacenadas en una cuenta de Google Drive. Usarlo es sencillo, habiendo entrado previamente a tu cuenta de Drive, abre al libreta `1a_python.ipynb` dentro del directorio `notebooks` y presiona sobre el icono:
 
 ![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)
 
