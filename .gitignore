@@ -386,3 +386,6 @@ dmypy.json
 
 # Pyre type checker
 .pyre/
+
+# wget notebooks data
+notebooks/*.csv
