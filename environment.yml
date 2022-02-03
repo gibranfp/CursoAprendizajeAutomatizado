@@ -1,0 +1,21 @@
+name: caa
+channels:
+  - ankurankan
+  - conda-forge
+  - defaults
+dependencies:
+  - python=3.8
+  - jupyterlab
+  - matplotlib
+  - numpy
+  - jupyter
+  - pandas
+  - scipy
+  - scikit-learn
+  - scikit-image
+  - tqdm
+  - ipython
+  - ca-certificates
+  - openssl
+  - pgmpy
+  - certifi
