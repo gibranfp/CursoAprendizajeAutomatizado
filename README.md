@@ -50,7 +50,7 @@ jupyter notebook
 
 Este comando abrirá una pestaña o ventana en tu navegador web, como se muestra en la siguiente captura de pantalla:
 
-![](figs/jupyter_notebook.png)
+![](https://github.com/gibranfp/CursoAprendizajeProfundo/blob/2022-1/figs/jupyter_notebook.png)
 
 Aquí puedes crear una nueva libreta seleccionando el botón `New` y posteriormente `Python 3`. También puedes cargar una existente seleccionando un archivo con extensión `.ipynb` dentro del directorio donde se lanzó el comando. Con `Upload` agregas archivos que se encuentran en otra parte de tu computadora a este directorio. Para salir, simplemente presiona el botón `Quit` y cierra la pestaña o ventada correspondiente.
 
