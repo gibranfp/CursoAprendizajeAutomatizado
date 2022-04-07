@@ -1,21 +1,20 @@
+# conda env export --from-history | grep -v "^prefix: " > environment.yml
 name: caa
 channels:
-  - ankurankan
+  - pytorch
   - conda-forge
+  - ankurankan
   - defaults
 dependencies:
   - python=3.8
   - jupyterlab
   - matplotlib
   - numpy
-  - jupyter
-  - pandas
-  - scipy
-  - scikit-learn
-  - scikit-image
   - tqdm
+  - scikit-learn
   - ipython
+  - scikit-image
   - ca-certificates
+  - certifi
   - openssl
   - pgmpy
-  - certifi
