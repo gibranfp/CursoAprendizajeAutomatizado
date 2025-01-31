@@ -7,7 +7,7 @@ Este repositorio contiene las diapositivas, libretas y demás material del curso
 2. Métodos lineales de regresión y clasificación
 3. Selección de modelos
 4. Modelos gráficos probabilísticos
-5. Modelos de variales latentes
+5. Modelos de variables latentes
 6. Máquinas de vectores de soporte y kernels
 7. Ensambles
 
