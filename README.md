@@ -1,4 +1,4 @@
-# Curso de aprendizaje automatizado 2025-2, PCIC-UNAM
+# Curso de aprendizaje automatizado 2026-2, PCIC-UNAM
 Este repositorio contiene las diapositivas, libretas y demás material del curso de aprendizaje automatizado, impartido en el [Posgrado en Ciencia e Ingeniería de la Computación](http://www.mcc.unam.mx/) de la [UNAM](https://www.unam.mx/).
 
 
